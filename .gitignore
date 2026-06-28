@@ -2,3 +2,5 @@
 !.gitignore
 !/文档/
 !/文档/Chapter_*.md
+!/revised_textbook_optimized/
+!/revised_textbook_optimized/*
